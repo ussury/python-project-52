@@ -31,6 +31,7 @@ DEBUG = os.getenv('DEBUG', False)
 
 ALLOWED_HOSTS = [
     'webserver',
+    '.railway.app',
 ]
 
 
